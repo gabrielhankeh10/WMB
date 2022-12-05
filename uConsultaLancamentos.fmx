@@ -1,0 +1,184 @@
+object ConsultaLancamentos: TConsultaLancamentos
+  Left = 0
+  Top = 0
+  Caption = 'Consulta de Lan'#231'amentos'
+  ClientHeight = 638
+  ClientWidth = 344
+  Fill.Kind = Solid
+  FormFactor.Width = 320
+  FormFactor.Height = 480
+  FormFactor.Devices = [Desktop]
+  DesignerMasterStyle = 0
+  object LayoutTodoLancto: TLayout
+    Align = Contents
+    Size.Width = 344.000000000000000000
+    Size.Height = 638.000000000000000000
+    Size.PlatformDefault = False
+    TabOrder = 0
+    object LayoutTop: TLayout
+      Align = Top
+      Size.Width = 344.000000000000000000
+      Size.Height = 65.000000000000000000
+      Size.PlatformDefault = False
+      TabOrder = 0
+      object Rectangle1: TRectangle
+        Align = Contents
+        Fill.Color = xFF5E5E5E
+        Size.Width = 344.000000000000000000
+        Size.Height = 65.000000000000000000
+        Size.PlatformDefault = False
+        Stroke.Kind = None
+        object lblNomeConsulta: TLabel
+          Align = Client
+          StyledSettings = [Family, Style]
+          Size.Width = 344.000000000000000000
+          Size.Height = 65.000000000000000000
+          Size.PlatformDefault = False
+          TextSettings.Font.Size = 20.000000000000000000
+          TextSettings.FontColor = claWhite
+          TextSettings.HorzAlign = Center
+          Text = 'Consulta de Lan'#231'amentos'
+          TabOrder = 0
+        end
+      end
+    end
+    object LayoutPesquisar: TLayout
+      Align = Top
+      Position.Y = 65.000000000000000000
+      Size.Width = 344.000000000000000000
+      Size.Height = 56.000000000000000000
+      Size.PlatformDefault = False
+      TabOrder = 1
+      object LayoutCampoPesquisa: TLayout
+        Align = Contents
+        Margins.Left = 10.000000000000000000
+        Margins.Top = 10.000000000000000000
+        Margins.Right = 100.000000000000000000
+        Margins.Bottom = 10.000000000000000000
+        Size.Width = 234.000000000000000000
+        Size.Height = 36.000000000000000000
+        Size.PlatformDefault = False
+        TabOrder = 1
+        object RoundRect2: TRoundRect
+          Align = Contents
+          Size.Width = 234.000000000000000000
+          Size.Height = 36.000000000000000000
+          Size.PlatformDefault = False
+          Stroke.Kind = None
+        end
+        object edtPesquisaGrupo: TEdit
+          Touch.InteractiveGestures = [LongTap, DoubleTap]
+          Align = Contents
+          StyleLookup = 'edtPesquisaGrupoStyle1'
+          TabOrder = 1
+          Margins.Left = 8.000000000000000000
+          Margins.Top = 5.000000000000000000
+          Margins.Right = 8.000000000000000000
+          Margins.Bottom = 5.000000000000000000
+          Size.Width = 218.000000000000000000
+          Size.Height = 26.000000000000000000
+          Size.PlatformDefault = False
+          TextPrompt = 'Pesquisar'
+        end
+      end
+      object LayoutBuscar: TLayout
+        Align = Contents
+        Margins.Left = 260.000000000000000000
+        Margins.Top = 10.000000000000000000
+        Margins.Right = 10.000000000000000000
+        Margins.Bottom = 10.000000000000000000
+        Size.Width = 74.000000000000000000
+        Size.Height = 36.000000000000000000
+        Size.PlatformDefault = False
+        TabOrder = 0
+        object RoundRect1: TRoundRect
+          Align = Contents
+          Fill.Color = xFFC3C0C0
+          Size.Width = 74.000000000000000000
+          Size.Height = 36.000000000000000000
+          Size.PlatformDefault = False
+          Stroke.Kind = None
+        end
+        object Label9: TLabel
+          Align = Client
+          StyledSettings = [Family, Style, FontColor]
+          HitTest = True
+          Size.Width = 74.000000000000000000
+          Size.Height = 36.000000000000000000
+          Size.PlatformDefault = False
+          TextSettings.Font.Size = 16.000000000000000000
+          TextSettings.HorzAlign = Center
+          Text = 'Buscar'
+          TabOrder = 0
+        end
+      end
+    end
+    object LayoutListView: TLayout
+      Align = Client
+      Size.Width = 344.000000000000000000
+      Size.Height = 517.000000000000000000
+      Size.PlatformDefault = False
+      TabOrder = 2
+      object ListView: TListView
+        ItemAppearanceClassName = 'TDynamicAppearance'
+        ItemEditAppearanceClassName = 'TDynamicAppearance'
+        HeaderAppearanceClassName = 'TListHeaderObjects'
+        FooterAppearanceClassName = 'TListHeaderObjects'
+        Align = Contents
+        Size.Width = 344.000000000000000000
+        Size.Height = 517.000000000000000000
+        Size.PlatformDefault = False
+        TabOrder = 0
+        ItemAppearanceObjects.ItemObjects.ObjectsCollection = <
+          item
+            AppearanceObjectName = 'TextOrdem'
+            AppearanceClassName = 'TTextObjectAppearance'
+            Appearance.Width = 31.000000000000000000
+            Appearance.Height = 44.000000000000000000
+          end
+          item
+            AppearanceObjectName = 'ImageGrupo'
+            AppearanceClassName = 'TImageObjectAppearance'
+            Appearance.Width = 49.000000000000000000
+            Appearance.Height = 44.000000000000000000
+            Appearance.PlaceOffset.X = 30.000000000000000000
+          end
+          item
+            AppearanceObjectName = 'TextGrupo'
+            AppearanceClassName = 'TTextObjectAppearance'
+            Appearance.Width = 89.000000000000000000
+            Appearance.Height = 25.000000000000000000
+            Appearance.PlaceOffset.X = 78.000000000000000000
+          end
+          item
+            AppearanceObjectName = 'TextValor'
+            AppearanceClassName = 'TTextObjectAppearance'
+            Appearance.Width = 81.000000000000000000
+            Appearance.Height = 25.000000000000000000
+            Appearance.PlaceOffset.X = 166.000000000000000000
+          end
+          item
+            AppearanceObjectName = 'TextHistorico'
+            AppearanceClassName = 'TTextObjectAppearance'
+            Appearance.Width = 169.000000000000000000
+            Appearance.Height = 20.000000000000000000
+            Appearance.PlaceOffset.X = 78.000000000000000000
+            Appearance.PlaceOffset.Y = 24.000000000000000000
+          end
+          item
+            AppearanceObjectName = 'TextData'
+            AppearanceClassName = 'TTextObjectAppearance'
+            Appearance.Width = 71.000000000000000000
+            Appearance.Height = 41.000000000000000000
+            Appearance.PlaceOffset.X = 248.000000000000000000
+            Appearance.PlaceOffset.Y = 1.000000000000000000
+          end>
+        ItemAppearanceObjects.ItemEditObjects.ObjectsCollection = <
+          item
+            AppearanceObjectName = 'Text1'
+            AppearanceClassName = 'TTextObjectAppearance'
+          end>
+      end
+    end
+  end
+end

@@ -1,0 +1,114 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<BorlandProject>
+	<Transactions>
+    <Transaction>2022/08/19 06:07:04.000.321,=C:\Users\PDIVI-085\Documents\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>2022/08/19 06:24:28.000.509,C:\Users\PDIVI-085\Documents\Embarcadero\Studio\Projects\Unit1.fmx=C:\Users\PDIVI-085\Desktop\Servidor Gabriel\Cod\2 Semestre 2022\Prog. Web Mobile\01 - 18-08-2022\Programa_01.fmx</Transaction>
+    <Transaction>2022/08/19 06:24:28.000.509,C:\Users\PDIVI-085\Documents\Embarcadero\Studio\Projects\Unit1.pas=C:\Users\PDIVI-085\Desktop\Servidor Gabriel\Cod\2 Semestre 2022\Prog. Web Mobile\01 - 18-08-2022\Programa_01.pas</Transaction>
+    <Transaction>2022/08/19 06:24:39.000.576,C:\Users\PDIVI-085\Documents\Embarcadero\Studio\Projects\Project1.dproj=C:\Users\PDIVI-085\Desktop\Servidor Gabriel\Cod\2 Semestre 2022\Prog. Web Mobile\01 - 18-08-2022\Projeto_01.dproj</Transaction>
+    <Transaction>2022/09/01 06:34:31.000.127,=C:\Users\PDIVI-085\Desktop\Servidor Gabriel\Cod\2 Semestre 2022\Prog. Web Mobile\01 - 18-08-2022\Unit1.pas</Transaction>
+    <Transaction>2022/09/01 06:34:53.000.151,C:\Users\PDIVI-085\Desktop\Servidor Gabriel\Cod\2 Semestre 2022\Prog. Web Mobile\01 - 18-08-2022\uPermissoes.pas=C:\Users\PDIVI-085\Desktop\Servidor Gabriel\Cod\2 Semestre 2022\Prog. Web Mobile\01 - 18-08-2022\Unit1.pas</Transaction>
+    <Transaction>2022/09/15 21:19:01.000.022,=C:\Users\PDIVI-085\Desktop\Servidor Gabriel\Cod\2 Semestre 2022\Prog. Web Mobile\01 - 18-08-2022\Unit1.pas</Transaction>
+    <Transaction>2022/09/15 21:35:22.000.640,=C:\Users\PDIVI-085\Desktop\Servidor Gabriel\Cod\2 Semestre 2022\Prog. Web Mobile\01 - 18-08-2022\Unit2.pas</Transaction>
+    <Transaction>2022/09/15 21:57:30.000.018,C:\Users\PDIVI-085\Desktop\Servidor Gabriel\Cod\2 Semestre 2022\Prog. Web Mobile\01 - 18-08-2022\uFluxo.fmx=C:\Users\PDIVI-085\Desktop\Servidor Gabriel\Cod\2 Semestre 2022\Prog. Web Mobile\01 - 18-08-2022\Unit1.fmx</Transaction>
+    <Transaction>2022/09/15 21:57:30.000.018,C:\Users\PDIVI-085\Desktop\Servidor Gabriel\Cod\2 Semestre 2022\Prog. Web Mobile\01 - 18-08-2022\uFluxo.pas=C:\Users\PDIVI-085\Desktop\Servidor Gabriel\Cod\2 Semestre 2022\Prog. Web Mobile\01 - 18-08-2022\Unit1.pas</Transaction>
+    <Transaction>2022/10/07 21:58:49.000.030,=C:\Users\PDIVI-085\Desktop\Servidor Gabriel\Cod\2 Semestre 2022\Prog. Web Mobile\01 - 18-08-2022\Unit1.pas</Transaction>
+    <Transaction>2022/10/07 22:01:50.000.563,=C:\Users\PDIVI-085\Desktop\Servidor Gabriel\Cod\2 Semestre 2022\Prog. Web Mobile\01 - 18-08-2022\Unit1.pas</Transaction>
+    <Transaction>2022/10/07 22:02:16.000.369,=C:\Users\PDIVI-085\Desktop\Servidor Gabriel\Cod\2 Semestre 2022\Prog. Web Mobile\01 - 18-08-2022\Unit1.pas</Transaction>
+    <Transaction>2022/10/07 22:02:59.000.211,=C:\Users\PDIVI-085\Desktop\Servidor Gabriel\Cod\2 Semestre 2022\Prog. Web Mobile\01 - 18-08-2022\Unit1.pas</Transaction>
+    <Transaction>2022/10/07 22:06:20.000.439,C:\Users\PDIVI-085\Desktop\Servidor Gabriel\Cod\2 Semestre 2022\Prog. Web Mobile\01 - 18-08-2022\Unit1.fmx=C:\Users\PDIVI-085\Desktop\Servidor Gabriel\Cod\2 Semestre 2022\Prog. Web Mobile\01 - 18-08-2022\uAplicacao.fmx</Transaction>
+    <Transaction>2022/10/07 22:06:20.000.439,C:\Users\PDIVI-085\Desktop\Servidor Gabriel\Cod\2 Semestre 2022\Prog. Web Mobile\01 - 18-08-2022\Unit1.pas=C:\Users\PDIVI-085\Desktop\Servidor Gabriel\Cod\2 Semestre 2022\Prog. Web Mobile\01 - 18-08-2022\uAplicacao.pas</Transaction>
+    <Transaction>2022/11/09 06:43:21.000.879,=C:\Users\PDIVI-085\Desktop\Servidor Gabriel\Cod\2 Semestre 2022\Prog. Web Mobile\01 - 18-08-2022\Unit1.pas</Transaction>
+    <Transaction>2022/11/09 06:45:25.000.794,C:\Users\PDIVI-085\Desktop\Servidor Gabriel\Cod\2 Semestre 2022\Prog. Web Mobile\01 - 18-08-2022\Unit1.dfm=C:\Users\PDIVI-085\Desktop\Servidor Gabriel\Cod\2 Semestre 2022\Prog. Web Mobile\01 - 18-08-2022\uDM.dfm</Transaction>
+    <Transaction>2022/11/09 06:45:25.000.794,C:\Users\PDIVI-085\Desktop\Servidor Gabriel\Cod\2 Semestre 2022\Prog. Web Mobile\01 - 18-08-2022\Unit1.pas=C:\Users\PDIVI-085\Desktop\Servidor Gabriel\Cod\2 Semestre 2022\Prog. Web Mobile\01 - 18-08-2022\uDM.pas</Transaction>
+    <Transaction>2022/11/10 06:34:36.000.630,=C:\Users\PDIVI-085\Desktop\Servidor Gabriel\Cod\2 Semestre 2022\Prog. Web Mobile\01 - 18-08-2022\Unit1.pas</Transaction>
+    <Transaction>2022/11/10 06:52:24.000.728,C:\Users\PDIVI-085\Desktop\Servidor Gabriel\Cod\2 Semestre 2022\Prog. Web Mobile\01 - 18-08-2022\uGrupos.pas=C:\Users\PDIVI-085\Desktop\Servidor Gabriel\Cod\2 Semestre 2022\Prog. Web Mobile\01 - 18-08-2022\Unit1.pas</Transaction>
+    <Transaction>2022/11/30 20:53:14.000.988,=C:\Users\PDIVI-085\Desktop\Servidor Gabriel\Cod\2 Semestre 2022\Prog. Web Mobile\WBM_2022-11-23_GABRIEL_AUGUSTO_HANKE\01 - 18-08-2022\uUsuarios.pas</Transaction>
+    <Transaction>2022/12/03 16:32:57.000.512,C:\Users\PDIVI-085\Desktop\Servidor Gabriel\Cod\2 Semestre 2022\Prog. Web Mobile\Programa Atualizado\01 - 18-08-2022\uGrupos.pas=</Transaction>
+    <Transaction>2022/12/03 16:33:59.000.323,=C:\Users\PDIVI-085\Desktop\Servidor Gabriel\Cod\2 Semestre 2022\Prog. Web Mobile\Programa Atualizado\01 - 18-08-2022\uGrupos.pas</Transaction>
+    <Transaction>2022/12/03 16:43:17.000.250,=C:\Users\PDIVI-085\Desktop\Servidor Gabriel\Cod\2 Semestre 2022\Prog. Web Mobile\Programa Atualizado\01 - 18-08-2022\Unit1.pas</Transaction>
+    <Transaction>2022/12/03 16:43:53.000.827,C:\Users\PDIVI-085\Desktop\Servidor Gabriel\Cod\2 Semestre 2022\Prog. Web Mobile\Programa Atualizado\01 - 18-08-2022\Unit1.fmx=C:\Users\PDIVI-085\Desktop\Servidor Gabriel\Cod\2 Semestre 2022\Prog. Web Mobile\Programa Atualizado\01 - 18-08-2022\uConsultaGrupos.fmx</Transaction>
+    <Transaction>2022/12/03 16:43:53.000.827,C:\Users\PDIVI-085\Desktop\Servidor Gabriel\Cod\2 Semestre 2022\Prog. Web Mobile\Programa Atualizado\01 - 18-08-2022\Unit1.pas=C:\Users\PDIVI-085\Desktop\Servidor Gabriel\Cod\2 Semestre 2022\Prog. Web Mobile\Programa Atualizado\01 - 18-08-2022\uConsultaGrupos.pas</Transaction>
+    <Transaction>2022/12/03 17:50:44.000.591,=C:\Users\PDIVI-085\Desktop\Servidor Gabriel\Cod\2 Semestre 2022\Prog. Web Mobile\Programa Atualizado\01 - 18-08-2022\Unit1.pas</Transaction>
+    <Transaction>2022/12/03 17:50:55.000.572,C:\Users\PDIVI-085\Desktop\Servidor Gabriel\Cod\2 Semestre 2022\Prog. Web Mobile\Programa Atualizado\01 - 18-08-2022\Unit1.pas=C:\Users\PDIVI-085\Desktop\Servidor Gabriel\Cod\2 Semestre 2022\Prog. Web Mobile\Programa Atualizado\01 - 18-08-2022\uConsultaLancamentos.pas</Transaction>
+    <Transaction>2022/12/03 17:50:55.000.572,C:\Users\PDIVI-085\Desktop\Servidor Gabriel\Cod\2 Semestre 2022\Prog. Web Mobile\Programa Atualizado\01 - 18-08-2022\Unit1.fmx=C:\Users\PDIVI-085\Desktop\Servidor Gabriel\Cod\2 Semestre 2022\Prog. Web Mobile\Programa Atualizado\01 - 18-08-2022\uConsultaLancamentos.fmx</Transaction>
+    <Transaction>2022/12/03 18:14:49.000.385,=C:\Users\PDIVI-085\Desktop\Servidor Gabriel\Cod\2 Semestre 2022\Prog. Web Mobile\Programa Atualizado\01 - 18-08-2022\uLancamentos.pas</Transaction>
+    <Transaction>2022/12/03 18:19:45.000.015,=C:\Users\PDIVI-085\Desktop\Servidor Gabriel\Cod\2 Semestre 2022\Prog. Web Mobile\Programa Atualizado\01 - 18-08-2022\Unit1.pas</Transaction>
+  </Transactions>
+	<ActiveMobileDevice>
+		<NoProfile Android64="" Android=""/>
+	</ActiveMobileDevice>
+	<ProjectSortOrder AutoSort="0" SortType="0">
+    <File Path="android-support-v4.dex.jar"/>
+    <File Path="cloud-messaging.dex.jar"/>
+    <File Path="com-google-android-gms.play-services-ads-base.17.2.0.dex.jar"/>
+    <File Path="com-google-android-gms.play-services-ads-identifier.16.0.0.dex.jar"/>
+    <File Path="com-google-android-gms.play-services-ads-lite.17.2.0.dex.jar"/>
+    <File Path="com-google-android-gms.play-services-ads.17.2.0.dex.jar"/>
+    <File Path="com-google-android-gms.play-services-analytics-impl.16.0.8.dex.jar"/>
+    <File Path="com-google-android-gms.play-services-analytics.16.0.8.dex.jar"/>
+    <File Path="com-google-android-gms.play-services-base.16.0.1.dex.jar"/>
+    <File Path="com-google-android-gms.play-services-basement.16.2.0.dex.jar"/>
+    <File Path="com-google-android-gms.play-services-gass.17.2.0.dex.jar"/>
+    <File Path="com-google-android-gms.play-services-identity.16.0.0.dex.jar"/>
+    <File Path="com-google-android-gms.play-services-maps.16.1.0.dex.jar"/>
+    <File Path="com-google-android-gms.play-services-measurement-base.16.4.0.dex.jar"/>
+    <File Path="com-google-android-gms.play-services-measurement-sdk-api.16.4.0.dex.jar"/>
+    <File Path="com-google-android-gms.play-services-stats.16.0.1.dex.jar"/>
+    <File Path="com-google-android-gms.play-services-tagmanager-v4-impl.16.0.8.dex.jar"/>
+    <File Path="com-google-android-gms.play-services-tasks.16.0.1.dex.jar"/>
+    <File Path="com-google-android-gms.play-services-wallet.16.0.1.dex.jar"/>
+    <File Path="com-google-firebase.firebase-analytics.16.4.0.dex.jar"/>
+    <File Path="com-google-firebase.firebase-common.16.1.0.dex.jar"/>
+    <File Path="com-google-firebase.firebase-iid-interop.16.0.1.dex.jar"/>
+    <File Path="com-google-firebase.firebase-iid.17.1.1.dex.jar"/>
+    <File Path="com-google-firebase.firebase-measurement-connector.17.0.1.dex.jar"/>
+    <File Path="com-google-firebase.firebase-messaging.17.5.0.dex.jar"/>
+    <File Path="fmx.dex.jar"/>
+    <File Path="google-play-billing.dex.jar"/>
+    <File Path="google-play-licensing.dex.jar"/>
+    <File Path="android-support-v4.dex.jar"/>
+    <File Path="cloud-messaging.dex.jar"/>
+    <File Path="com-google-android-gms.play-services-ads-base.17.2.0.dex.jar"/>
+    <File Path="com-google-android-gms.play-services-ads-identifier.16.0.0.dex.jar"/>
+    <File Path="com-google-android-gms.play-services-ads-lite.17.2.0.dex.jar"/>
+    <File Path="com-google-android-gms.play-services-ads.17.2.0.dex.jar"/>
+    <File Path="com-google-android-gms.play-services-analytics-impl.16.0.8.dex.jar"/>
+    <File Path="com-google-android-gms.play-services-analytics.16.0.8.dex.jar"/>
+    <File Path="com-google-android-gms.play-services-base.16.0.1.dex.jar"/>
+    <File Path="com-google-android-gms.play-services-basement.16.2.0.dex.jar"/>
+    <File Path="com-google-android-gms.play-services-gass.17.2.0.dex.jar"/>
+    <File Path="com-google-android-gms.play-services-identity.16.0.0.dex.jar"/>
+    <File Path="com-google-android-gms.play-services-maps.16.1.0.dex.jar"/>
+    <File Path="com-google-android-gms.play-services-measurement-base.16.4.0.dex.jar"/>
+    <File Path="com-google-android-gms.play-services-measurement-sdk-api.16.4.0.dex.jar"/>
+    <File Path="com-google-android-gms.play-services-stats.16.0.1.dex.jar"/>
+    <File Path="com-google-android-gms.play-services-tagmanager-v4-impl.16.0.8.dex.jar"/>
+    <File Path="com-google-android-gms.play-services-tasks.16.0.1.dex.jar"/>
+    <File Path="com-google-android-gms.play-services-wallet.16.0.1.dex.jar"/>
+    <File Path="com-google-firebase.firebase-analytics.16.4.0.dex.jar"/>
+    <File Path="com-google-firebase.firebase-common.16.1.0.dex.jar"/>
+    <File Path="com-google-firebase.firebase-iid-interop.16.0.1.dex.jar"/>
+    <File Path="com-google-firebase.firebase-iid.17.1.1.dex.jar"/>
+    <File Path="com-google-firebase.firebase-measurement-connector.17.0.1.dex.jar"/>
+    <File Path="com-google-firebase.firebase-messaging.17.5.0.dex.jar"/>
+    <File Path="fmx.dex.jar"/>
+    <File Path="google-play-billing.dex.jar"/>
+    <File Path="google-play-licensing.dex.jar"/>
+    <File Path="Programa_01.pas"/>
+    <File Path="Programa_01.fmx"/>
+    <File Path="uAplicacao.pas"/>
+    <File Path="uAplicacao.fmx"/>
+    <File Path="uConsultaGrupos.pas"/>
+    <File Path="uConsultaGrupos.fmx"/>
+    <File Path="uDM.pas"/>
+    <File Path="uDM.dfm"/>
+    <File Path="uFluxo.pas"/>
+    <File Path="uFluxo.fmx"/>
+    <File Path="uGrupos.pas"/>
+    <File Path="uPermissoes.pas"/>
+    <File Path="uUsuarios.pas"/>
+    <File Path="uConsultaLancamentos.pas"/>
+    <File Path="uConsultaLancamentos.fmx"/>
+    <File Path="uLancamentos.pas"/>
+  </ProjectSortOrder>
+</BorlandProject>
